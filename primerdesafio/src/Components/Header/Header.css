@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    overflow: hidden;
+    flex-wrap:wrap;
+    box-shadow: 0 5px 10px rgb(219, 54, 115);
+
+}
+
+img{
+    width: 8%;
+}
+
+a{
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgb(125, 19, 93);
+}
